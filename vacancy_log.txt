@@ -1,0 +1,1 @@
+Date and time: Tue May  9 13:32:59 2023 | Function name: get_headers | Arguments: ((), {}) | Result: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Safari/537.36'}
